@@ -15,24 +15,34 @@ You can open any of these databases by just clicking on the link, just need to c
 
 :db: recommendations
 * link:https://demo.neo4jlabs.com:7473/browser/?dbms=neo4j://{db}@demo.neo4jlabs.com&db={db}[{db}]
+
 :db: movies
 * link:https://demo.neo4jlabs.com:7473/browser/?dbms=neo4j://{db}@demo.neo4jlabs.com&db={db}[{db}]
+
 :db: northwind
 * link:https://demo.neo4jlabs.com:7473/browser/?dbms=neo4j://{db}@demo.neo4jlabs.com&db={db}[{db}]
+
 :db: fincen
 * link:https://demo.neo4jlabs.com:7473/browser/?dbms=neo4j://{db}@demo.neo4jlabs.com&db={db}[{db}]
+
 :db: twitter
 * link:https://demo.neo4jlabs.com:7473/browser/?dbms=neo4j://{db}@demo.neo4jlabs.com&db={db}[{db}]
+
 :db: stackoverflow
 * link:https://demo.neo4jlabs.com:7473/browser/?dbms=neo4j://{db}@demo.neo4jlabs.com&db={db}[{db}]
+
 :db: gameofthrones
 * link:https://demo.neo4jlabs.com:7473/browser/?dbms=neo4j://{db}@demo.neo4jlabs.com&db={db}[{db}]
+
 :db: gameofthrones
 * link:https://demo.neo4jlabs.com:7473/browser/?dbms=neo4j://{db}@demo.neo4jlabs.com&db={db}[{db}]
+
 :db: neoflix
 * link:https://demo.neo4jlabs.com:7473/browser/?dbms=neo4j://{db}@demo.neo4jlabs.com&db={db}[{db}]
+
 :db: wordnet
 * link:https://demo.neo4jlabs.com:7473/browser/?dbms=neo4j://{db}@demo.neo4jlabs.com&db={db}[{db}]
+
 :db: slack
 * link:https://demo.neo4jlabs.com:7473/browser/?dbms=neo4j://{db}@demo.neo4jlabs.com&db={db}[{db}]
 
