@@ -1,0 +1,29 @@
+= Neo4j Dataset Demo server
+
+== Access Information
+
+This server host a number of datasets with read-only access for public use. 
+The username and password for that read-only user is the same as the datbase name.
+
+For instance for `recommendations` database the username is `recommendations` and password is `recommendations` too.
+
+The server URL is: https://demo.neo4jlabs.com:7473
+
+== Hosted Databases
+
+* recommendations
+* movies
+* northwind
+* fincen
+* twitter
+* stackoverflow
+* gameofthrones
+* neoflix
+* wordnet
+* slack
+
+== Feedback
+
+If you have feedback for the demo server drop us a message on https://dev.neo4j.com/chat[Discord^] or create a https://github.com/neo4j-graph-examples/demo.neo4jlabs.com/issues[GitHub issue^].
+
+If you want to learn more about Neo4j, check out our https://dev.neo4j.com/developer[developer site^]
