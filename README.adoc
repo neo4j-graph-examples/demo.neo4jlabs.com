@@ -31,6 +31,9 @@ You can open any of these databases by just clicking on the link, just need to c
 :db: stackoverflow
 * link:https://demo.neo4jlabs.com:7473/browser/?dbms=neo4j://{db}@demo.neo4jlabs.com&db={db}[{db}]
 
+:db: stackoverflow2
+* link:https://demo.neo4jlabs.com:7473/browser/?dbms=neo4j://{db}@demo.neo4jlabs.com&db={db}[{db}] (small dataset)
+
 :db: gameofthrones
 * link:https://demo.neo4jlabs.com:7473/browser/?dbms=neo4j://{db}@demo.neo4jlabs.com&db={db}[{db}]
 
