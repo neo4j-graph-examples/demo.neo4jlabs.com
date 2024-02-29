@@ -14,22 +14,30 @@ The server URL is: https://demo.neo4jlabs.com:7473
 You can open any of these databases by just clicking on the link, just need to copy the username as the password too.
 
 :db: recommendations
-* link:https://demo.neo4jlabs.com:7473/browser/?dbms=neo4j://{db}@demo.neo4jlabs.com&db={db}[{db}]
+* link:https://demo.neo4jlabs.com:7473/browser/?dbms=neo4j://{db}@demo.neo4jlabs.com&db={db}[{db}] (movie recommendations)
 
 :db: movies
 * link:https://demo.neo4jlabs.com:7473/browser/?dbms=neo4j://{db}@demo.neo4jlabs.com&db={db}[{db}]
+* See: https://github.com/neo4j-graph-examples/{db)
 
 :db: northwind
 * link:https://demo.neo4jlabs.com:7473/browser/?dbms=neo4j://{db}@demo.neo4jlabs.com&db={db}[{db}]
+* See: https://github.com/neo4j-graph-examples/{db)
 
 :db: fincen
 * link:https://demo.neo4jlabs.com:7473/browser/?dbms=neo4j://{db}@demo.neo4jlabs.com&db={db}[{db}]
+* See: https://github.com/neo4j-graph-examples/{db)
 
 :db: twitter
 * link:https://demo.neo4jlabs.com:7473/browser/?dbms=neo4j://{db}@demo.neo4jlabs.com&db={db}[{db}]
+* See: https://github.com/neo4j-graph-examples/{db)
+
+:db: companies
+* link:https://demo.neo4jlabs.com:7473/browser/?dbms=neo4j://{db}@demo.neo4jlabs.com&db={db}[{db}] (crunchbase)
 
 :db: stackoverflow
 * link:https://demo.neo4jlabs.com:7473/browser/?dbms=neo4j://{db}@demo.neo4jlabs.com&db={db}[{db}]
+* See: https://github.com/neo4j-graph-examples/{db)
 
 :db: stackoverflow2
 * link:https://demo.neo4jlabs.com:7473/browser/?dbms=neo4j://{db}@demo.neo4jlabs.com&db={db}[{db}] (small dataset)
@@ -48,6 +56,25 @@ You can open any of these databases by just clicking on the link, just need to c
 
 :db: slack
 * link:https://demo.neo4jlabs.com:7473/browser/?dbms=neo4j://{db}@demo.neo4jlabs.com&db={db}[{db}]
+
+:db: twitch
+* link:https://demo.neo4jlabs.com:7473/browser/?dbms=neo4j://{db}@demo.neo4jlabs.com&db={db}[{db}]
+* See: https://github.com/neo4j-graph-examples/{db)
+
+:db: offshoreleaks
+* link:https://demo.neo4jlabs.com:7473/browser/?dbms=neo4j://{db}@demo.neo4jlabs.com&db={db}[{db}]
+* See: https://github.com/neo4j-graph-examples/{db)
+
+:db: network
+* link:https://demo.neo4jlabs.com:7473/browser/?dbms=neo4j://{db}@demo.neo4jlabs.com&db={db}[{db}] (network management)
+* See: https://github.com/neo4j-graph-examples/network-management
+
+:db: slack
+* link:https://demo.neo4jlabs.com:7473/browser/?dbms=neo4j://{db}@demo.neo4jlabs.com&db={db}[{db}]
+
+:db: openstreetmap
+* link:https://demo.neo4jlabs.com:7473/browser/?dbms=neo4j://{db}@demo.neo4jlabs.com&db={db}[{db}]
+* See: https://github.com/neo4j-graph-examples/{db)
 
 == Feedback
 
