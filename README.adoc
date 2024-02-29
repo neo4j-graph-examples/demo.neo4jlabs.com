@@ -18,32 +18,29 @@ You can open any of these databases by just clicking on the link, just need to c
 
 :db: movies
 * link:https://demo.neo4jlabs.com:7473/browser/?dbms=neo4j://{db}@demo.neo4jlabs.com&db={db}[{db}]
-* See: https://github.com/neo4j-graph-examples/{db)
+* See: https://github.com/neo4j-graph-examples/{db}
 
 :db: northwind
 * link:https://demo.neo4jlabs.com:7473/browser/?dbms=neo4j://{db}@demo.neo4jlabs.com&db={db}[{db}]
-* See: https://github.com/neo4j-graph-examples/{db)
+* See: https://github.com/neo4j-graph-examples/{db}
 
 :db: fincen
 * link:https://demo.neo4jlabs.com:7473/browser/?dbms=neo4j://{db}@demo.neo4jlabs.com&db={db}[{db}]
-* See: https://github.com/neo4j-graph-examples/{db)
+* See: https://github.com/neo4j-graph-examples/{db}
 
 :db: twitter
 * link:https://demo.neo4jlabs.com:7473/browser/?dbms=neo4j://{db}@demo.neo4jlabs.com&db={db}[{db}]
-* See: https://github.com/neo4j-graph-examples/{db)
+* See: https://github.com/neo4j-graph-examples/{db}
 
 :db: companies
 * link:https://demo.neo4jlabs.com:7473/browser/?dbms=neo4j://{db}@demo.neo4jlabs.com&db={db}[{db}] (crunchbase)
 
 :db: stackoverflow
 * link:https://demo.neo4jlabs.com:7473/browser/?dbms=neo4j://{db}@demo.neo4jlabs.com&db={db}[{db}]
-* See: https://github.com/neo4j-graph-examples/{db)
+* See: https://github.com/neo4j-graph-examples/{db}
 
 :db: stackoverflow2
 * link:https://demo.neo4jlabs.com:7473/browser/?dbms=neo4j://{db}@demo.neo4jlabs.com&db={db}[{db}] (small dataset)
-
-:db: gameofthrones
-* link:https://demo.neo4jlabs.com:7473/browser/?dbms=neo4j://{db}@demo.neo4jlabs.com&db={db}[{db}]
 
 :db: gameofthrones
 * link:https://demo.neo4jlabs.com:7473/browser/?dbms=neo4j://{db}@demo.neo4jlabs.com&db={db}[{db}]
@@ -59,11 +56,11 @@ You can open any of these databases by just clicking on the link, just need to c
 
 :db: twitch
 * link:https://demo.neo4jlabs.com:7473/browser/?dbms=neo4j://{db}@demo.neo4jlabs.com&db={db}[{db}]
-* See: https://github.com/neo4j-graph-examples/{db)
+* See: https://github.com/neo4j-graph-examples/{db}
 
 :db: offshoreleaks
 * link:https://demo.neo4jlabs.com:7473/browser/?dbms=neo4j://{db}@demo.neo4jlabs.com&db={db}[{db}]
-* See: https://github.com/neo4j-graph-examples/{db)
+* See: https://github.com/neo4j-graph-examples/{db}
 
 :db: network
 * link:https://demo.neo4jlabs.com:7473/browser/?dbms=neo4j://{db}@demo.neo4jlabs.com&db={db}[{db}] (network management)
