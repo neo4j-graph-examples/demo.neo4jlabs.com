@@ -16,6 +16,9 @@ You can open any of these databases by just clicking on the link, just need to c
 :db: recommendations
 * link:https://demo.neo4jlabs.com:7473/browser/?dbms=neo4j://{db}@demo.neo4jlabs.com&db={db}[{db}] (movie recommendations)
 
+:db: recommendaitions
+* link:https://demo.neo4jlabs.com:7473/browser/?dbms=neo4j://{db}@demo.neo4jlabs.com&db={db}[{db}] (movie recommendations with embeddings and vector index)
+
 :db: movies
 * link:https://demo.neo4jlabs.com:7473/browser/?dbms=neo4j://{db}@demo.neo4jlabs.com&db={db}[{db}]
 * See: https://github.com/neo4j-graph-examples/{db}
